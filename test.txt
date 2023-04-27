@@ -1,0 +1,100 @@
+151	adjudicated	4	le grand bleu Come on, suck your finger, you'll be seeing mermaids everywhere!
+152	adjudicated	1	thirteen days Feels good to win, doesn't it?
+153	adjudicated	0	suburbia It's an honest question.
+154	adjudicated	3	the shining Come and play with us.
+155	adjudicated	1	shrek Oh, that is so sweet.
+156	adjudicated	1	shrek I believe it's healthy to get to know someone over a long period of time.
+157	adjudicated	2	yes man Will you do it for me Carl?
+158	adjudicated	3	blood simple So, uh... this wouldn't interest you.
+159	adjudicated	3	sweet smell of success My curiosity is killing me; what are you so rambunctious about tonight?
+160	adjudicated	3	sweet smell of success I'm feeling too good to fight with you, but that isn't what I said - I said you snoop.
+161	adjudicated	2	donnie darko Hey, Cherita... want a cigarette?
+162	adjudicated	4	shakespeare in love Will you read it for me?
+163	adjudicated	2	true believer So what've you been up to since then?
+164	adjudicated	3	blue velvet You can kiss them if you want.
+165	adjudicated	4	almost famous And I'm still in love with you Leslie.
+166	adjudicated	5	true romance I like you, Clarence. Always have. Always will.
+167	adjudicated	0	true romance I mean look at her. It looks like she fell off the ugly tree and hit every branch on the way down.
+168	adjudicated	4	true romance I eat the pussy, I eat the butt, I eat every motherfuckin' thang.
+169	adjudicated	1	true lies What can I say? I'm a spy.
+170	adjudicated	0	true lies So far, this is not blowing my skirt up, gentlemen.
+171	adjudicated	5	trouble in paradise Darling, remember, you are Gaston Monescu. You are a crook. I want you as a crook. I love you as a crook. I worship you as a crook. Steal, swindle, rob. Oh, but don't become one of those useless, good-for-nothing gigolos.
+172	adjudicated	3	transformers the movie I would have waited an eternity for this. It's over, Prime.
+173	adjudicated	2	transformers the movie Why settle for a peek, Daniel, when you can see everything from "Lookout Mountain"?
+174	adjudicated	2	titanic You gonna cut her meat for her too there, Cal?
+175	adjudicated	4	titanic I'll never let go, Jack. I promise.
+176	adjudicated	3	titanic You shine up like a new penny.
+177	adjudicated	5	titanic What? Do you think a first class girl can't drink?
+178	adjudicated	4	titanic So, you wanna go to a real party?
+179	adjudicated	1	tin cup Why do men always insist on measuring their dicks?
+180	adjudicated	1	tin cup Oh, you amuse me, Roy, but I'm the only woman in America born after World War II that thinks astrology's a crock of shit.
+181	adjudicated	5	tin cup Does my inner child need a spanking?
+182	adjudicated	4	thx 1138 Everything will be all right. You are in my hands. I am here to protect you. You have nowhere to go. You have nowhere to go.
+183	adjudicated	2	thunderheart Come on up and watch TV.
+184	adjudicated	1	this boy's life Why, I'm so scared, I'm so scared, I'm so scared, wo-o-o!
+185	adjudicated	0	this boy's life Here I am, you lucky people!
+186	adjudicated	1	there's something about mary I couldn't believe that she knew my name. Some of my best friends didn't know my name.
+187	adjudicated	3	there's something about mary We agreed I wouldn't fuck you, and you wouldn't fuck me until we got this fuck  outta the fuckin' picture!
+188	adjudicated	1	thelma & louise If she calls, just be gentle, you know? Like you're really happy to hear from her. Like you miss her. Women love that shit.
+189	adjudicated	3	thelma & louise Louise, no matter what happens, I'm glad I came with you.
+190	adjudicated	3	Anchorman I don't know how to put this, but... I'm kind of a big deal.
+191	adjudicated	4	As Good As It Gets You make me want to be a better man.
+192	adjudicated	5	A Beautiful Mind I don't exactly know what I am required to say in order for you to have intercourse with me. But could we assume that I said all that? I mean, essentially we are talking about fluid exchange, right? So could we just go straight to the sex?
+193	adjudicated	2	Internal Affairs That's a nice dress — where's the rest of it?
+194	adjudicated	5	The Sure Thing   How would you like to have a sexual encounter so intense, it could conceivably change your political views?
+195	adjudicated	5	Intolerable Cruelty Your husband had told me you were the most beautiful woman he'd ever met. I didn't expect the most beautiful woman I'd ever met.
+196	adjudicated	4	the last boy scout She's hot, Joe. She rates a three on my finger scale. That means I'd cut off three of my fingers if God would let me fuck her.
+197	adjudicated	4	up in the air This is pretty fucking sexy.
+198	adjudicated	0	the big lebowski That's right, Dude, they peed on your fucking rug.
+199	adjudicated	2	the big lebowski Walter, I love you, but sooner or later, you're going to have to face the fact you're a goddamn moron.
+200	adjudicated	4	the apartment Ya know, I used to live like Robinson Crusoe; I mean, shipwrecked among 8 million people. And then one day I saw a footprint in the sand, and there you were.
+351	adjudicated	2	kalifornia I like your hair 'cause it's short.
+352	adjudicated	2	jerry maguire You bet on me like I bet on you.
+353	adjudicated	3	jerry maguire Don't ever stop fucking me!
+354	adjudicated	5	jerry maguire I won't let you get rid of me.
+355	adjudicated	1	jay and silent bob strike back Nights like this... I miss dating a lesbian.
+356	adjudicated	1	jackie brown What the fuck happened to you, man? Shit, your ass used to be beautiful!
+357	adjudicated	2	intolerable cruelty Let me rephrase. Mrs. Rexroth, have you ever been in love?
+358	adjudicated	1	indiana jones and the temple of doom You don't believe me, Dr. Jones? You will, Dr. Jones. You will become a true believer.
+359	adjudicated	5	i love you phillip morris I love you, Phillip Morris! I love you!
+360	adjudicated	5	i love you phillip morris Enough romance. Let's fuck!
+361	adjudicated	2	his girl friday Walter, you're wonderful, in a loathsome sort of way.
+362	adjudicated	0	highlander endgame Faith, I told you I look like a fucking orange.
+363	adjudicated	0	harold and maude Grab the shovel, Harold.
+364	adjudicated	3	happy campers Now that we're in the middle of nowhere aren't you curious to know what it'd be like to... look into my eyes?
+365	adjudicated	5	happy campers I gave you the ultimate male fantasy. Sex! With nothing on the side. Don't pretend we shared anything other than fluids, Adam.
+366	adjudicated	2	happy campers Aah! Spermicidally lubricated.
+367	adjudicated	0	halloween the curse of michael myers Oh god Michael, please don't hurt me.
+368	adjudicated	5	hackers I hope you don't screw like you type.
+369	adjudicated	0	groundhog day Don't mess with me, Porkchop.
+370	adjudicated	5	grosse pointe blank You're a handsome devil. What's your name?
+371	adjudicated	4	grosse pointe blank Don't tease me, you know what I do for a living.
+372	adjudicated	4	gods and monsters Take off your shirt, and I'll tell you all about it.
+373	adjudicated	1	go Is it safe to have a radio attached to my balls like this?
+374	adjudicated	5	glengarry glen ross You've got a big mouth... now I'm gonna show you an even bigger one.
+375	adjudicated	4	get shorty Well, aren't you gonna offer me whatever it is you taste like?
+376	adjudicated	1	get carter Take your clothes off.
+377	adjudicated	4	get carter I've come for you, Margaret.
+378	adjudicated	1	gandhi You're the only man I know who makes his own clothes.
+379	adjudicated	4	gandhi There are no goodbyes for us. Wherever you are, you will always be in my heart.
+380	adjudicated	2	forrest gump I never thanked you for saving my life.
+381	adjudicated	1	forrest gump Hello. My name's Forrest, Forrest Gump. You want a chocolate?
+382	adjudicated	2	forrest gump You can sit here if ya want.
+383	adjudicated	0	finding nemo Something's wrong with you, really.
+384	adjudicated	1	final destination 2 Hello, Clear. I've been expecting you.
+385	adjudicated	3	final destination Because of you, I'm still alive.  Thank you.
+386	adjudicated	2	fight club It's cheaper than a movie, and there's free coffee.
+387	adjudicated	3	fight club Something on your mind, dear?
+388	adjudicated	0	ferris bueller's day off Pardon my French, but you're an asshole! Asshole!
+389	adjudicated	3	ferris bueller's day off Ferris Bueller, you're my hero.
+390	adjudicated	3	fear and loathing in las vegas It's okay. He's just admiring the shape of your skull.
+391	adjudicated	3	fatal instinct You really are incredibly stupid, aren't you? I like that in a man.
+392	adjudicated	3	fatal instinct What are you gonna do? Blow me away?
+393	adjudicated	1	fast times at ridgemont high Aloha. My name is Mr. Hand.
+394	adjudicated	2	fast times at ridgemont high I think I just came... didn't you feel it?
+395	adjudicated	2	fargo How was everything today?
+396	adjudicated	1	fargo Ah, hon, ya got Arby's all over me.
+397	adjudicated	2	fantastic mr fox I love you, but I should have never married you.
+398	adjudicated	5	fantastic four That's my nose, genius. These are my lips.
+399	adjudicated	0	evil dead I'm all right now, Ashley! Come unlock this chain and let me out! I'm all right now! It's your sister Cheryl!
+400	adjudicated	3	eternal sunshine of the spotless mind My embarrassing admission is I really like that you're nice, right now.
